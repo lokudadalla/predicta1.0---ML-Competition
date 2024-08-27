@@ -35,7 +35,7 @@
 
    <figure>
         <img src="https://github.com/lokudadalla/predicta1.0---ML-Competition/blob/be9317a765d908986db1e4c6a9b9d670e5420a07/images/4.png" alt="Image Description">
-        <figcaption>First Evaluation(before add new features)</figcaption>
+        
     </figure>
 </body>
 
