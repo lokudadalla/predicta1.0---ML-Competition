@@ -34,7 +34,7 @@
     </p>
 
    <figure>
-        <img src="https://private-user-images.githubusercontent.com/133969661/343966872-b7bba123-2346-4397-8a04-9eee6ba5d92d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5MTAzNTksIm5iZiI6MTcyMzkxMDA1OSwicGF0aCI6Ii8xMzM5Njk2NjEvMzQzOTY2ODcyLWI3YmJhMTIzLTIzNDYtNDM5Ny04YTA0LTllZWU2YmE1ZDkyZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxN1QxNTU0MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNTNjNmM0MDg1NTI5NWIzY2VkYjI4YWI0YWFhMmEwMWUwM2NmNzRkNmQwNWM4YzkwMGE3MGNjNDYzN2FjN2RlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Zx-bQP1wpHdhI-XgD3MqojKugcOwZCr4mJTBkqRmF14" alt="Image Description">
+        <img src="https://github.com/lokudadalla/predicta1.0---ML-Competition/blob/be9317a765d908986db1e4c6a9b9d670e5420a07/images/4.png" alt="Image Description">
         <figcaption>First Evaluation(before add new features)</figcaption>
     </figure>
 </body>
