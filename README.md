@@ -18,10 +18,10 @@
         <figcaption>First Evaluation(before add new features)</figcaption>
     </figure>
   <figure>
-        <img src="https://github.com/lokudadalla/predicta1.0---ML-Competition/blob/c5825bdd35fd3cccd7ed1eeb89ff70a33da4bc98/images/2.png" alt="Image Description">
+        <img src="https://github.com/lokudadalla/predicta1.0---ML-Competition/blob/7b0c2b72786836c406576d6b7438ddbb3edb0b38/images/3.png" alt="Image Description">
         <figcaption>Final Evaluation(after add new features)</figcaption>
     </figure>
-  <img src="https://github.com/lokudadalla/predicta1.0---ML-Competition/blob/7b0c2b72786836c406576d6b7438ddbb3edb0b38/images/3.png" alt="Image Description">
+  <img src="https://github.com/lokudadalla/predicta1.0---ML-Competition/blob/c5825bdd35fd3cccd7ed1eeb89ff70a33da4bc98/images/2.png" alt="Image Description">
         <figcaption>Model</figcaption>
     </figure>
 </body>
